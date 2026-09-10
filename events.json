@@ -1,54 +1,5 @@
-{
-  "repositories": [
-    {
-      "id": 1,
-      "name": "react",
-      "owner": "facebook",
-      "url": "https://github.com/facebook/react",
-      "description": "A JavaScript library for building user interfaces with declarative components",
-      "stars": 207000,
-      "language": "JavaScript",
-      "starredAt": "2024-01-15"
-    },
-    {
-      "id": 2,
-      "name": "vue",
-      "owner": "vuejs",
-      "url": "https://github.com/vuejs/vue",
-      "description": "The Progressive JavaScript Framework",
-      "stars": 207000,
-      "language": "JavaScript",
-      "starredAt": "2024-02-20"
-    },
-    {
-      "id": 3,
-      "name": "tensorflow",
-      "owner": "tensorflow",
-      "url": "https://github.com/tensorflow/tensorflow",
-      "description": "An Open Source Machine Learning Framework for Everyone",
-      "stars": 185000,
-      "language": "Python",
-      "starredAt": "2024-03-10"
-    },
-    {
-      "id": 4,
-      "name": "kubernetes",
-      "owner": "kubernetes",
-      "url": "https://github.com/kubernetes/kubernetes",
-      "description": "Production-Grade Container Orchestration",
-      "stars": 107000,
-      "language": "Go",
-      "starredAt": "2024-04-05"
-    },
-    {
-      "id": 5,
-      "name": "awesome-python",
-      "owner": "vinta",
-      "url": "https://github.com/vinta/awesome-python",
-      "description": "A curated list of awesome Python frameworks, libraries, software and resources",
-      "stars": 207000,
-      "language": "Python",
-      "starredAt": "2024-05-12"
-    }
-  ]
-}
+[
+  { "name": "octocat/Hello-World", "starred": "2024-01-15" },
+  { "name": "github/docs", "starred": "2024-02-02" },
+  { "name": "octo-org/octo-repo", "starred": "2024-03-21" }
+]
